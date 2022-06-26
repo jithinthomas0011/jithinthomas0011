@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jithinthomas0011
-- 👀 I’m interested in Programming, C, C++ , Linux
-- 🌱 I’m currently learning C++ , Game development
+- 👀 I’m interested in Computer science. I like to program using C++, C , Python .   
+- 🌱 I’m currently learning C++ Game development and Rust.
 - 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me jithinthomas0011@gmail.com
 
